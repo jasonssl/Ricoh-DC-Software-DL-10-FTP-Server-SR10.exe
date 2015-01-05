@@ -1,11 +1,11 @@
 Ricoh-DC-Software-DL-10-FTP-Server-SR10.exe-
 ============================================
-# Exploit Title: Ricoh DC Software DL-10 FTP Server (SR10.exe) <= 1.1.0.6 Remote Buffer Overflow Vulnerability
-# Version:       <= 1.1.0.6
-# Date:          December 2014
-# Author:        jasonsslim
-# Homepage:      www.jasonsslim.info
-# Tested on:     Windows 2K13
+Exploit Title: Ricoh DC Software DL-10 FTP Server (SR10.exe) <= 1.1.0.6 Remote Buffer Overflow Vulnerability
+Version:       <= 1.1.0.6
+Date:          December 2014
+Author:        jasonsslim
+Homepage:      www.jasonsslim.info
+Tested on:     Windows 2K13
 
 Ricoh DC Software DL-10 FTP Server (SR10.exe) &lt;= 1.1.0.6 - Remote Buffer Overflow Vulnerability
 
